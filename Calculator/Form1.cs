@@ -140,25 +140,7 @@ namespace Calculator
 
         private void button15_Click(object sender, EventArgs e)
         {
-            //switch (operationPerformed)
-            //{
-            //    case "+":
-            //        textBoxZ.Text = (resultValue + Double.Parse(textBoxZ.Text)).ToString();
-            //        break;
-            //    case "-":
-            //        textBoxZ.Text = (resultValue - Double.Parse(textBoxZ.Text)).ToString();
-            //        break;
-            //    case "*":
-            //        textBoxZ.Text = (resultValue * Double.Parse(textBoxZ.Text)).ToString();
-            //        break;
-            //    case "/":
-            //        textBoxZ.Text = (resultValue / Double.Parse(textBoxZ.Text)).ToString();
-            //        break;
-            //    default:
-            //        break;
-            //}
-            //resultValue = Double.Parse(textBoxZ.Text);
-            //labelZ.Text = "";
+         
         }
 
         private void labelCurrentOperation_Click(object sender, EventArgs e)
