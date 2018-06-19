@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+// Simple RPN Calculator
+// Opdrachtenreeks rood
+
 namespace Calculator
 {
     public partial class Form1 : Form
@@ -116,8 +120,8 @@ namespace Calculator
                     update_view();
                     break;
                 case "Percentage":
-                    // Percentage bereken is makkelijk
-                    // Laat Y voor in Y staan!
+                    // Percentage berekenen is makkelijk
+                    // Laat waarde van Y in Y staan!
                     // Dit is makkelijk voor verdere berekeningen
                     Zval = (Zval / 100) * Yval;
                     update_view();
