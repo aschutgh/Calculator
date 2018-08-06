@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 // Simple RPN Calculator
 // Opdrachtenreeks rood
+// Na invoeren van een getal altijd bevestigen met Enter
 
 namespace Calculator
 {
